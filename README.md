@@ -1,30 +1,45 @@
-# 📊 Blinkit Retail Sales Analysis (Excel Dashboard)
+# 🛒 Blinkit Retail Sales Analysis 📊
 
-This project analyzes a fictional retail sales dataset from Blinkit using **Microsoft Excel**.
+An end-to-end sales performance analysis project done **fully in Excel** using data from Blinkit. This project includes:
 
-## 📁 Project Features:
-- Cleaned and structured data using Excel
-- KPI highlights: Total Sales, Items, Ratings
-- Dynamic visual charts and filters
-- Interactive slicers for:
-  - Item Type
-  - Outlet Size
-  - Fat Content
-  - Location Type
+- ✅ Data Cleaning
+- 📈 Dashboard Creation
+- 📊 KPIs and Charts
+- 🔍 Insights from Rating, Items, and Orders
+- 📁 Organized Excel Workbook
 
-## 🛠 Tools Used:
-- Microsoft Excel
-  - Pivot Tables
-  - Pivot Charts
-  - Slicers
-  - Conditional Formatting
+---
 
-## 📎 Dataset Link:
-[🔗 Click here to access dataset (Google Drive)](https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI)
+## 📸 Dashboard Preview:
 
-## 🖼 Dashboard Preview:
 ![Dashboard](Screenshot%202025-05-16%20115634.png)
 
 ---
 
-Made with ❤️ by a passionate data analyst.
+## 📂 Files Included:
+
+- `blinkit.xlsx` — Full analysis workbook
+- Folder `icon/` — All visual icons used in dashboard
+- Screenshots and images for design
+
+---
+
+## 💡 Tools Used:
+- **Microsoft Excel** for:
+  - Power Query (Data Cleaning)
+  - Pivot Tables
+  - Slicers & Charts
+- Basic image edits for visual appeal
+
+---
+
+## 🔗 Dataset Source:
+[Google Drive - Blinkit Dataset](https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI?usp=sharing)
+
+---
+
+## 🙋‍♂️ About Me
+
+Aspiring Data Analyst skilled in Excel, Python, SQL, and Power BI.  
+This is one of my Excel-based portfolio projects showing analytical and visualization skills using real-life datasets.
+
