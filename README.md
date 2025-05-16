@@ -9,6 +9,7 @@ An end-to-end sales performance analysis project done **fully in Excel** using d
 - 📁 Organized Excel Workbook
 
 ---
+![Dashboard](dase.png)
 
 ## Dashboard Preview
 
