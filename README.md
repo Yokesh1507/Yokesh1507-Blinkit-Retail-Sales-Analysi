@@ -12,16 +12,7 @@ An end-to-end sales performance analysis project done **fully in Excel** using d
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)  
-
-## Dataset Link
-
 [Click here to view/download the Blinkit Dataset (Google Drive)](https://drive.google.com/open?id=113ENVNZmKoAWCql8MDsx6c5vMd7RSQ4P&usp=drive_copy)
-
-
-
-
-
 
 ---
 
