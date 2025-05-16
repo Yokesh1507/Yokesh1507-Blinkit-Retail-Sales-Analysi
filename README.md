@@ -23,7 +23,7 @@ This project analyzes a fictional retail sales dataset from Blinkit using **Micr
 [🔗 Click here to access dataset (Google Drive)](https://drive.google.com/drive/folders/1mKh61zKVBnPJN0A5lc77osGNkmNa-loI)
 
 ## 🖼 Dashboard Preview:
-![Dashboard](./icon/home%20icon.png)
+![Dashboard](Screenshot%202025-05-16%20115634.png)
 
 ---
 
